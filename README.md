@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @boyeonihn
-- 👀 I’m interested in pivoting from education to data analytics
-- 🌱 I’m currently learning how to code using python 3
+- 👀 I am a software engineer
+- 🌱 I’m currently working on building responsive websites with HTML, CSS, and JavaScript 
 - 💞️ Besides coding, I love learning languages, reading books, and talking about dogs. 
 - 📫 How to reach me: @ihn_by at twitter! 
 
