@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Boyeon Ihn (she/her)</h1>
-<h3 align="center">A curious and passionate software engineer focused on full-stack web development, <br> based in NYC and South Korea!</h3>
+<h3 align="center">A curious and passionate software engineer @ 100Devs focused on full-stack web development, <br> based in NYC and South Korea!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=boyeonihn&label=Profile%20views&color=0e75b6&style=flat" alt="boyeonihn" /> </p>
 
@@ -31,7 +31,7 @@
 #
 
 <h1 align="center">안녕하세요! 👋 인보연이라고 합니다! </h1>
-<h3 align="center"> 호기심 많고 관심분야를 깊이있게 탐구하는 걸 좋아하는 소프트 엔지니어입니다. <br> 현재 웹 개발을 하고 있고, 미국과 한국에 거주하고 있습니다.</h3>
+<h3 align="center"> 호기심 많고 관심분야를 깊이있게 탐구하는 걸 좋아하는 소프트 엔지니어입니다. <br> 현재 100Devs에서 웹 개발을 하고 있고, 미국과 한국에 거주하고 있습니다.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=boyeonihn&label=Profile%20views&color=0e75b6&style=flat" alt="boyeonihn" /> </p>
 
