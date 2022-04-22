@@ -31,7 +31,7 @@
 #
 
 <h1 align="center">안녕하세요! 👋 인보연이라고 합니다! </h1>
-<h3 align="center"> 호기심 받고 관심분야를 깊이 있게 참구하는 걸 좋아하는 소프트 엔지니어입니다. <br> 현재 웹 개발을 하고 있고, 미국과 한국에 거주하고 있습니다.</h3>
+<h3 align="center"> 호기심 많고 관심분야를 깊이있게 탐구하는 걸 좋아하는 소프트 엔지니어입니다. <br> 현재 웹 개발을 하고 있고, 미국과 한국에 거주하고 있습니다.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=boyeonihn&label=Profile%20views&color=0e75b6&style=flat" alt="boyeonihn" /> </p>
 
