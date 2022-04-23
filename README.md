@@ -37,7 +37,6 @@
 
 <p align="left"> <a href="https://twitter.com/boyeonihn" target="blank"><img src="https://img.shields.io/twitter/follow/boyeonihn?logo=twitter&style=for-the-badge" alt="boyeonihn" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/boyeonihn" target="blank"><img src="https://img.shields.io/twitter/follow/boyeonihn?logo=twitter&style=for-the-badge" alt="boyeonihn" /></a> </p>
 
 - 🔭 현재 HTML, CSS, JavaScript 를 기반으로 한 반응형 웹 사이트들을 개발하는 일을 하고 있습니다. 
 
