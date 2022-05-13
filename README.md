@@ -1,3 +1,5 @@
+<img src="https://i.ibb.co/M6TMDy3/Pink-and-Navy-Blue-Organic-Graphic-Designer-Linked-In-Banner.png" alt="Boyeon Ihn Profile Banner" border="0">
+
 <h1 align="center">Hi 👋, I'm Boyeon Ihn (she/her)</h1>
 <h3 align="center">A curious and passionate software engineer @ 100Devs focused on full-stack web development, <br> based in NYC and South Korea!</h3>
 
