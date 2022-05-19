@@ -30,7 +30,7 @@ I've always had a fond love for learning languages and applying my linguistic an
 			<td width="50%">
 				<h4>LUNA Logistics</h4>
 				<div align="center">  
-					<a href='https://gorgeous-semolina-0fa19b.netlify.app/' target="_blank"><img src="https://i.ibb.co/j30W0T3/lunalogistics.png" alt="lunalogistics" border="0"></a>
+					<a href='https://lunafreight.com/' target="_blank"><img src="https://i.ibb.co/j30W0T3/lunalogistics.png" alt="lunalogistics" border="0"></a>
 					<p>
 						<a href="https://github.com/boyeonihn/luna-logistics-website" target="_blank"><img src="https://img.shields.io/badge/Repo-green?style=for-the-badge&logo=github"/></a>  
 						<a href="https://lunafreight.com/" target="_blank"><img src="https://img.shields.io/badge/Live-blue?style=for-the-badge&color=0892d0"/></a>	
