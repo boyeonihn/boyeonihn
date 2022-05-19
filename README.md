@@ -86,7 +86,7 @@ I've always had a fond love for learning languages and applying my linguistic an
 
 ![Boyeon's GitHub stats](https://github-readme-stats.vercel.app/api?username=boyeonihn&theme=material-palenight&show_icons=true)
 
-### Connect with me | 저 연락하실 방법
+### Connect with me | 저를 연락하실 방법
 [![Twitter Badge](https://img.shields.io/badge/-@boyeonihn-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&style=flat&link=https://twitter.com/boyeonihn)](https://twitter.com/boyeonihn) 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&style=flat&link=https://www.linkedin.com/in/boyeonihn/)](https://www.linkedin.com/in/boyeonihn/)
 [![Gmail Badge](https://img.shields.io/badge/-boyeonihn@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&style=flat&link=mailto:boyeonihn@gmail.com)](mailto:april.you@gmail.com)
