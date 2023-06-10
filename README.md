@@ -1,7 +1,7 @@
 <p align="center"><img src="https://github.com/boyeonihn/boyeonihn/blob/b11b984fb1ff47f9b89bbde30d05d48a6312a37e/github-banner-boyeonihn.png" alt="Boyeon Ihn Profile Banner" border="0" width="850"></p>
 
 ### About Me | 저에 대해서 
-I'm a software engineer at 100Devs focusing on full-stack web development with a background in education and communication sciences and disorders. 
+I'm a software engineer focusing on full-stack web development with a background in education and communication sciences and disorders. 
 I've always had a fond love for learning languages and applying my linguistic and technical knowlege to solve problems using simple and efficient solutions. 
 - I love documenting and sharing what I've learned throughout my journey via my twitter and blog. 
 - Currently: expanding my tech stack, learning Japanese, and catching up on Parks & Rec episodes. 
