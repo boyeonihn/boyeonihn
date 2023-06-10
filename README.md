@@ -57,27 +57,27 @@ I've always had a fond love for learning languages and applying my linguistic an
         </tr>
 	    <tr>
             <td width="50%">
-                <h3>Personal Portfolio</h3>
+                <h3>Le Moment App</h3>
                 <div align="left" >  
-                    <a href='https://boyeonihn.com' target="_blank"><img src="https://i.ibb.co/bgt1zmr/boyeonih-portfolio.png" alt="boyeonih-portfolio" border="0"></a>
+                    <a href='https://boyeonihn.github.io/le-moment-github/' target="_blank"><img src="https://i.ibb.co/mXScdLq/le-moment-app.png" alt="le-moment app" border="0"></a>
                     <p align="center">
-                        <a href="https://boyeonihn.com" target="_blank">
+                        <a href="https://boyeonihn.github.io/le-moment-github/" target="_blank">
                             <img src="https://img.shields.io/badge/Live-lightgrey?style=for-the-badge&color=0892d0"/>
                         </a>	
                     </p>
                     <p><strong>Tech Stack: JavaScript, CSS3, HTML5</strong></p>
-		    <p>My software engineering portfolio website.</p>
+		    <p>A Vanilla JS project that created the famous Momentum chrome extension.</p>
                 </div>
             </td>
             <td width="50%">
-                <h3 align="left">Dog Wisdoms</h3>
+                <h3 align="left">petAmi</h3>
                 <div align="left">  
-                    <a href='https://relaxed-entremet-c40b40.netlify.app/' target="_blank"><img src="https://i.ibb.co/JqGgDSY/dog-wisdoms.png" alt="dog-wisdoms" border="0"></a>
+                    <a href='https://port-0-pera-pair-jkg2alhpfvpx2.sel4.cloudtype.app/' target="_blank"><img src="https://i.ibb.co/qknwZ26/petAmi.png" alt="petAmi website" border="0"></a>
                     <p align="center">
-                        <a href="https://relaxed-entremet-c40b40.netlify.app/" target="_blank"><img src="https://img.shields.io/badge/Live-lightgrey?style=for-the-badge&color=0892d0"/></a>	
+                        <a href="https://port-0-pera-pair-jkg2alhpfvpx2.sel4.cloudtype.app/" target="_blank"><img src="https://img.shields.io/badge/Live-lightgrey?style=for-the-badge&color=0892d0"/></a>	
                     </p>
-                    <p><strong>Tech Stack: JavaScript, CSS3, HTML5</strong></p>
-		    <p>Need an encouragement? Look at this site that generates random quotes of wisdom with a cute dog picture</p>
+                    <p><strong>Tech Stack: JavaScript, SCSS, HTML, Node.js</strong></p>
+		    <p>A full-stack app where pet guardians can upload videos of their beloved animals and create posts regarding questions or find other friends to meet up!</p>
                 </div>	
             </td>
         </tr>
@@ -91,7 +91,7 @@ I've always had a fond love for learning languages and applying my linguistic an
 ### Connect with me | 저와 연락하실 방법
 [![Twitter Badge](https://img.shields.io/badge/-@boyeonihn-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&style=flat&link=https://twitter.com/boyeonihn)](https://twitter.com/boyeonihn) 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&style=flat&link=https://www.linkedin.com/in/boyeonihn/)](https://www.linkedin.com/in/boyeonihn/)
-[![Gmail Badge](https://img.shields.io/badge/-boyeonihn@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&style=flat&link=mailto:boyeonihn@gmail.com)](mailto:april.you@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-boyeon.dev@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&style=flat&link=mailto:boyeon.dev@gmail.com)](mailto:boyeon.dev@gmail.com)
 <img src="https://komarev.com/ghpvc/?username=boyeonihn&label=Profile%20views&color=0e75b6&style=flat" alt="boyeonihn" />
 <!---
 boyeonihn/boyeonihn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
