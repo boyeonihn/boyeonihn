@@ -3,13 +3,13 @@
 ### About Me | 저에 대해서 
 I'm a software engineer focusing on full-stack web development with a background in education and communication sciences and disorders. 
 I've always had a fond love for learning languages and applying my linguistic and technical knowlege to solve problems using simple and efficient solutions. 
-- I love documenting and sharing what I've learned throughout my journey via my twitter and blog. 
-- Currently: expanding my tech stack, learning Japanese, and catching up on Parks & Rec episodes. 
+- I love documenting and sharing what I've learned throughout my journey via my twitter and tech blog. 
+- Currently: expanding my tech stack, learning Japanese, and catching up on Criminal Minds episodes. 
 
 ##
 풀스택 개발을 하는 소프트웨어 엔지니어입니다. 개발자가 되기 이전에도 언어를 배우고 사람을 돕는 일에 기여하고 싶어 언어치료사로 4년 경력을 쌓았습니다. 어렸을 때부터 새로운 언어를 배우고 습득한 언어와 테크니컬한 지식을 통해 효율적이고 간결한 솔루션을 생각해 내는 걸 좋아했습니다. 
 - 배운 걸 기록하고 공유하는 걸 즐겨서 트위터와 블로그를 운영하고 있습니다. 
-- 현재 테크스택을 깊이 있게 구축하고, 일본어를 배우며, Parks & Recreation 미드를 보면서 시간을 보내고 있습니다.  
+- 현재 리액트와 TypeScript기반 프로젝트를 진행하고 있고, 일본어를 배우며, Criminal Minds 미드를 보면서 시간을 보내고 있습니다.  
 
 ##
 ### Languages and Tools | 현재 쓰고 있는 테크스택 
